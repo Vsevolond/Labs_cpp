@@ -1,0 +1,3 @@
+/Users/vsevolod/Documents/Labs_cpp/Segments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vsevolod/Documents/Labs_cpp/Segments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vsevolod/Documents/Labs_cpp/Segments/cmake-build-debug/CMakeFiles/Segments.dir
